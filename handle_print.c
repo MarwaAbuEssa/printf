@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * handle_print - handle Prints
+ * handle_print - handle Prints function
  * @fmt: Format parameter
  * @list: List
  * @ind: ind.
- * @buffer: Buffer .
+ * @buffer: Buffer array
  * @flags: flags
  * @width: width.
  * @precision: Precision
