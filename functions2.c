@@ -4,8 +4,8 @@
 /**
  * print_pointer - Prints the value of a pointer variable
  * @types: types
- * @buffer: Buffer
- * @flags:  flags
+ * @buffer: Buffer Array
+ * @flags:  flags argument
  * @width: width
  * @precision: Precision
  * @size: Size
@@ -58,7 +58,7 @@ int print_pointer(va_list types, char buffer[],
  * print_non_printable - Prints ascii codes in hexa of non printable chars
  * @types: types
  * @buffer: Buffer
- * @flags:  flags
+ * @flags:  flags argument
  * @width: width
  * @precision: Precision
  * @size: Size

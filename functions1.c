@@ -3,8 +3,8 @@
 
 /**
  * print_unsigned - Prints an unsigned number
- * @types: types
- * @buffer: Buffer
+ * @types: types list
+ * @buffer: Buffer array param
  * @flags:  flags
  * @width: width
  * @precision: Precision
