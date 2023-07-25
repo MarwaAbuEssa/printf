@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * get_width - the width for printing
+ * get_width - get width for printing
  * @format: Format parameter.
  * @i: parameter.
  * @list: list.
- *
  * Return: width.
  */
 

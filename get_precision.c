@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_precision - Calculates precision
+ * get_precision - Calculates precision Function
  * @format: Formatted string
  * @i: pointer parameter
  * @list: list
